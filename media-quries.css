@@ -1,0 +1,271 @@
+/************************* Media Quries Start ********************/
+
+/* Mobile Responsive */
+
+@media(max-width:768px) {
+    body {
+        overflow-x: hidden;
+    }
+    .nav-list {
+        flex-direction: column;
+    }
+
+    .nav-link {
+        font-family: 'ui-rounded';
+        font-size: 7rem;
+        letter-spacing: 0.5rem;
+        margin: 4rem;
+    }
+    .col-sm-12 p {
+        font-size: 3vw;
+    }
+    .menu-toggler {
+        top: 5rem;
+        width: 5rem;
+         height: 4rem;
+    }
+
+    .col-md-7 h3 {
+        top: 5rem;
+        left: 17rem;
+        font-size: 2rem;
+    }
+
+    .col-md-7 p {
+        font-size: 2rem;
+    }
+
+    .col-md-7 .icons {
+        top: 24rem;
+        left: 16rem;
+    }
+
+    .col-md-7 .icons .fa-instagram,
+    .icons .fa-facebook,
+    .icons .fa-twitter {
+        font-size: 3vw;
+    }
+
+    .col-md-7 .contact-text {
+        top: 42rem;
+        left: 16rem;
+    }
+
+    .col-md-7 .contact-email {
+        top: 47rem;
+    }
+
+    .col-md-7 .contact-phn {
+        top: 76vh;
+    }
+
+    .fixed-icon-cv a {
+        top: 50%;
+        font-size: 2rem;
+    }
+
+    #services {
+        height: 90vh;
+    }
+
+    .text-white {
+        font-size: 4rem;
+    }
+
+    .text-center {
+        margin-top: 6rem;
+    }
+
+    #project {
+        height: 180vh;
+    }
+
+    #project p {
+        font-size: 2rem;
+    }
+
+    #project a {
+        font-size: 1.5rem;
+    }
+
+
+}
+
+/* mobile responsive */
+
+@media(max-width:425px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .col-sm-12 .profile-pic img {
+        height: 5vh;
+    }
+
+    .right-div {
+        width: 40vw;
+        transform: rotate(-60deg);
+        left: -42rem;
+        height: 88vh;
+    }
+
+    .left-div {
+        transform: rotate(-131deg);
+        right: -36rem;
+        top: -35rem;
+    }
+
+    .col-sm-12 h6 {
+        top: 28vh;
+        font-size: 3.5rem;
+    }
+
+    h2 {
+        z-index: -12;
+        top: 38vh;
+    }
+
+    .banner h1.cd-headline {
+        font-size: 6rem;
+    }
+
+    .banner h1 {
+        top: 48vh;
+    }
+
+    #about {
+        height: 130vh;
+    }
+
+    .col-md-5 img {
+        height: 61vh;
+    }
+
+    .col-md-7 h3 {
+        left: 37rem;
+    }
+
+    .col-md-7 p {
+        font-size: 3rem;
+        color: white;
+    }
+
+    .col-md-7 .icons {
+        top: 34rem;
+        left: 34rem;
+    }
+
+    .col-md-7 .icons .fa-instagram,
+    .icons .fa-facebook,
+    .icons .fa-twitter {
+        font-size: 3.3rem;
+    }
+
+    .col-md-7 .contact-text {
+        top: 55rem;
+        left: 31rem;
+    }
+
+    .col-md-7 .contact-email {
+        top: 65rem;
+        left: 18rem;
+    }
+
+    .col-md-7 .contact-phn {
+        top: 46vh;
+        left: 18rem;
+    }
+
+    #services p {
+        font-size: 3.3rem;
+    }
+
+    .text-white {
+        font-size: 5rem;
+    }
+
+    #services {
+        height: 100vh;
+    }
+
+    .col-md-4 {
+        height: 25vh;
+    }
+
+    .col-md-4 .icon {
+        font-size: 5rem;
+    }
+
+    #services .text-white h3 {
+        font-size: 2.75rem;
+    }
+
+    #education h3 {
+        font-size: 5rem;
+    }
+
+    #education .col-sm-12 {
+        height: 17vh;
+    }
+
+    #education p {
+        font-size: 2.5rem;
+    }
+
+    #education {
+        height: 70vh;
+    }
+
+    #project {
+        height: 170vh;
+    }
+
+    #project .col-md-4 {
+        height: 40vh;
+    }
+
+    #project .img-banner-left img {
+        height: 39vh;
+    }
+
+    #project p {
+        font-size: 3rem;
+    }
+
+    #project .project-name {
+        font-size: 3.7rem;
+    }
+
+    #project a {
+        font-size: 2.5rem;
+    }
+
+    #project .img-banner-right img {
+        height: 38vh;
+    }
+
+    #contact {
+        height: 65vh;
+    }
+
+    #contact .icons .fa-instagram,
+    #contact .icons .fa-whatsapp,
+    #contact .icons .fa-facebook {
+        font-size: 4rem;
+    }
+
+    #contact p {
+        font-size: 4rem;
+        margin: 4rem;
+    }
+
+
+
+
+
+
+
+}
+
+
+/************************* Media Quries End ********************/
