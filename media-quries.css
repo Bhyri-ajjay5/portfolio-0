@@ -2,15 +2,16 @@
 
 /* Mobile Responsive */
 
-@media(max-width:768px) {
+ @media(max-width:768px) {
     body {
         overflow-x: hidden;
     }
     .nav-list {
         flex-direction: column;
     }
+}
 
-    .nav-link {
+    /*.nav-link {
         font-family: 'ui-rounded';
         font-size: 7rem;
         letter-spacing: 0.5rem;
@@ -89,11 +90,11 @@
     }
 
 
-}
+} */
 
 /* mobile responsive */
 
-@media(max-width:425px) {
+/* @media(max-width:425px) {
     body {
         overflow-x: hidden;
     }
@@ -265,7 +266,7 @@
 
 
 
-}
+} */
 
 
 /************************* Media Quries End ********************/
