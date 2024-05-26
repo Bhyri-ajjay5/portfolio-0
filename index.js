@@ -82,16 +82,26 @@ for (let item of Education_details){
 
 let projects = [
     {
-        project_image : 'https://assets.turbologo.com/blog/en/2019/12/19084721/Verizon-logo.png',
-        project_title :'NSP(Network Service Provider)',
-        project_info : 'NSP Nothing but a application which is used by the technical team of a network team to manitor or reslove and many more for a nework outage happened in an area.',
-        project_url : '#'
+        // project_image : 'https://assets.turbologo.com/blog/en/2019/12/19084721/Verizon-logo.png',
+        // project_title :'NSP(Network Service Provider)',
+        // project_info : 'NSP Nothing but a application which is used by the technical team of a network team to manitor or reslove and many more for a nework outage happened in an area.',
+        // project_url : '#'
+        // project_image : 'https://assets.turbologo.com/blog/en/2019/12/19084721/Verizon-logo.png',
+        project_title :'BOOKMARK MAKE',
+        project_info : 'To pursue my career in an organization with performance-oriented environment for achievement of personal advancement.Being ambitious and hardworking, I am looking forward to challenging my potential and be worthy of Management trust and confidence',
+        project_url : '#',
+        project_image : 'images/bookmark.png',
     },
     {
-        project_image : 'images/arkafoods.png',
-        project_title :'ARKA FOODS',
-        project_info : 'ARKA FOODS is a website which promotes there product which is Basmathi rice which gives good taste and making the grain  more fluffy ever. it is known for its fragrance and taste which satisfies the customers.',
-        project_url : 'images/arkafoods.png'
+        // project_image : 'images/arkafoods.png',
+        // project_title :'ARKA FOODS',
+        // project_info : 'ARKA FOODS is a website which promotes there product which is Basmathi rice which gives good taste and making the grain  more fluffy ever. it is known for its fragrance and taste which satisfies the customers.',
+        // project_url : 'images/arkafoods.png'
+        // project_image : 'images/arkafoods.png',
+        project_title :'TODOS APPLICATION',
+        project_info : ' Developed persistent todo application with CRUD operations to the tracklist of tasks.The displayed list of todos with HTML list elements, styled todo list using CSS, Bootstrap',
+        project_url : 'images/todoslist.png',
+        project_image : 'images/todoslist.png'
     }
 ]
 
